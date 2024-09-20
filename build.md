@@ -1,6 +1,6 @@
 Instagram: 349.3.0.42.104  
-Messenger: 439.0.0.29.119  
 GooglePhotos: 7.0.0.674947721  
+Messenger: 476.1.0.47.109  
 Tiktok: 32.5.3  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
