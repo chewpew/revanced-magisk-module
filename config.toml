@@ -19,6 +19,8 @@ arch = "arm64-v8a"
 [Messenger]
 apkmirror-dlurl = "https://apkmirror.com/apk/facebook-2/messenger/"
 arch = "arm64-v8a"
+included-patches = "'Hide inbox ads' 'Hide inbox subtabs'"
+exclusive-patches = true
 
 [Google Photos]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
