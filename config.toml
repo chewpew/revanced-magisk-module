@@ -29,3 +29,4 @@ exclusive-patches = true
 [Google Photos]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
 arch = "arm64-v8a"
+version = "6.92.0.657277585"
