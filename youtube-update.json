@@ -1,6 +1,6 @@
 {
-  "version": "v20.14.43 (patches 5.50.2.rvp)",
-  "versionCode": 57,
-  "zipUrl": "https://github.com/chewpew/revanced-magisk-module/releases/download/57/youtube-revanced-magisk-v20.14.43-all.zip",
+  "version": "v20.40.45 (patches 6.0.0.rvp)",
+  "versionCode": 64,
+  "zipUrl": "https://github.com/chewpew/revanced-magisk-module/releases/download/64/youtube-revanced-module-v20.40.45-all.zip",
   "changelog": "https://raw.githubusercontent.com/chewpew/revanced-magisk-module/update/build.md"
 }
